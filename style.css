@@ -68,7 +68,7 @@ body{
     margin-top:5px;
 }
 .item{
-    width:39%;
+    width:35%;
     padding:10px;
     margin:40px;
     display: flex;
@@ -102,6 +102,7 @@ body{
 @media screen and (max-width:800px){
     .heading{
         width:100vw;
+        margin-top:50px
     }
     .heading h1{
         font-size: 28px;
